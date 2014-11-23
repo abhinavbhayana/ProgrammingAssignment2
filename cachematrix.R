@@ -1,5 +1,5 @@
-# A pair of functions that cache the inverse of a matrix
-# and creates a special matrix object that can cache its inverse
+# Functions that cache the inverse of a matrix and creates
+# a special matrix object that can cache its inverse
 
 makeCacheMatrix <- function( m = matrix() ) {
 # Initializing the inverse property
